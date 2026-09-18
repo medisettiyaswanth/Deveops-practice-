@@ -22,7 +22,7 @@ Kotta empty file create cheyadaniki
 
 ## 6. echo - Text rayadaniki
 File lo text rayadaniki
-> Example: echo "Hello DevOps" > test.txt
+> Example: echo Hello DevOps > test.txt
 
 ## 7. cat - File chadavadaniki
 File lo em undo chupistundi

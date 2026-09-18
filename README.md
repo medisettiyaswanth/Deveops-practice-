@@ -1,40 +1,23 @@
-# \# DevOps Practice Lab 🚀
+# 🚀 DevOps Practice Lab
+### by Yaswanth Medisetti | Aspiring DevOps Engineer
 
-# by Yaswanth Medisetti | Aspiring DevOps Engineer
+![Learning](https://img.shields.io/badge/Learning-DevOps-blue)
+![Day1](https://img.shields.io/badge/Day%201-Done-success)
 
-# 
+Welcome to my journey from Zero to DevOps!
 
-# Welcome to my DevOps journey repository! From zero to DevOps.
+## 🛠️ Skills Roadmap
+- [x] Git & GitHub
+- [ ] Linux & Shell
+- [ ] Docker
+- [ ] Jenkins CI/CD
+- [ ] Kubernetes
 
-# 
+## 📅 Day 1 - 18/09/2026
+- Learned git init, add, commit, push
+- Successfully pushed to GitHub
 
-# \## 🛠️ Skills I'm Learning
+## 🎯 Goal: 90 Days lo Job-Ready DevOps Engineer!
 
-# \- Git \& GitHub - Done ✅
-
-# \- Linux Basics
-
-# \- Docker
-
-# \- Jenkins \& CI/CD
-
-# \- Kubernetes
-
-# 
-
-# \## 📅 Day 1 Progress - 18-09-2026
-
-# \- Learned git init, add, commit, push
-
-# \- Pushed first repo to GitHub successfully
-
-# 
-
-# \## 🔗 Connect With Me
-
-# \- GitHub: @medisettiyaswanth
-
-# 
-
-# > Consistency is the key!
-
+---
+⭐ Follow my journey!

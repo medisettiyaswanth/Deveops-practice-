@@ -39,3 +39,15 @@ File peru marchadaniki
 ## 10. rm - Remove
 File ni delete cheyadaniki
 > Example: rm new.txt
+
+## 11. grep - Search
+File lo oka word ni vetakadaniki
+> Example: grep "error" log.txt
+
+## 12. chmod - Permissions
+File ki permission ivvadaniki
+> Example: chmod +x script.sh
+
+## 13. ps - Processes
+Running processes chudataniki
+> Example: ps aux

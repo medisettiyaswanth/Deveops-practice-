@@ -1,1 +1,14 @@
-
+name: DevOps Practice CI
+on:
+  push:
+    branches: [ "main" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Files
+        run: |
+          echo "Hello Yaswanth - Pipeline Started!"
+          ls -la
+          echo "Pipeline Success!"
